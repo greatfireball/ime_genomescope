@@ -1,5 +1,5 @@
 # ime_genomescope
-Docker image to provide genomescope software
+Docker image to provide GenomeScope software
 
 ## Prerequisities
 
