@@ -33,4 +33,4 @@ RUN   apt --yes update && \
 VOLUME /data
 WORKDIR /data
 
-ENTRYPOINT ["Rscript /opt/genomescope.R"]
+ENTRYPOINT ["Rscript", "/opt/genomescope/genomescope.R"]
